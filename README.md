@@ -27,7 +27,7 @@ angular.module('myApp', ['ngaria']);
 ## Documentation
 
 Documentation is available on the
-[AngularJS docs site](http://docs.angularjs.org/api/ngaria).
+[AngularJS docs site](https://docs.angularjs.org/api/ngAria).
 
 ## License
 
